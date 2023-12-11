@@ -7,11 +7,10 @@
           "PYROGRAM",  
           "telegram-bot",  
           "SpamX",  
-          "RiZoeLX"  
+          "CODEX"  
         ],     
-    "repository": "https://github.com/MrHacker5575/CoDeX-U-Bot2.4",  
-    "website": "https://github.com/RiZoeLX",  
-    "success_url": "https://t.me/RiZoeLX",  
+    "repository": "https://github.com/MrH4CK3R474/CDX-USERBOT",  
+      
     "env": {  
                "API_ID": {  
           "description": "Fill Api ID Take this value from My.telegram.org",  
@@ -35,7 +34,7 @@
         },        
         "SUDO_USERS": {  
               "description": "Sudo users id space by space or leave blank",  
-              "value": "6123932615 1690209622",  
+              "value": "",  
               "required": false  
           },  
         "OWNER_ID": {  
