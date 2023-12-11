@@ -8,9 +8,9 @@ import platform
 __version__ = __version__
 
 
-ping_msg = PING_MSG if PING_MSG else "🇨Ⓞ𝗗𝜩🇽"
-pic = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/0d7c524a3fe2798398b3a.jpg"
-amsg = ALIVE_MSG if ALIVE_MSG else "𝐎𝐏 ѕραм - by 𝗖ⓞ𝗗𝜩𝗫"
+ping_msg = PING_MSG if PING_MSG else "⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️"
+pic = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/a32783a91999e9774054a.jpg"
+amsg = ALIVE_MSG if ALIVE_MSG else "𝐎𝐏 ѕραм - by ⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️"
 
 try:
    sah = RiZoeL.get_users(OWNER_ID)
@@ -22,11 +22,11 @@ class Alive:
      Pic = pic
      
      msg = f"""
-**[☆𝗖ⓞ𝗗𝜩𝗫☆](https://t.me/TEAM_CDX)
+**[⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️](https://t.me/synax10)
 ◈ •━━━━━★✦♡✦★━━━━━• ◈ 
-➪ **𝗠คѕƬєя:**[☆𝗞𝚲𝐌𝜩𝜩𝐍𝚲☆](https://t.me/BRANDED_KAMEENAA)
+➪ **𝗠คѕƬєя:**[⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️](https://t.me/ASHWANI10)
 ➪ **𝗣ƴƬнοи ⩔єяនɨ០ɳ:** `{platform.python_version()}`
-➪ **𝗖ⓞ𝗗𝜩𝗫 ⩔єяនɨ០ɳ:** `{__version__}`
+➪ **⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️ ⩔єяនɨ០ɳ:** `{__version__}`
 ➪ **𝗣ƴяο ⩔єяនɨ០ɳ:** `{pyro_vr}`
 ◈ •━━━━━★✦♡✦★━━━━━• ◈
      """
