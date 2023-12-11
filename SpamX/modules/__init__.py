@@ -22,7 +22,7 @@ class Alive:
      Pic = pic
      
      msg = f"""
-**[☆𝗖ⓞ𝗗៩𝗫☆](https://t.me/Op_CoDeX)
+**[☆𝗖ⓞ𝗗៩𝗫☆](https://t.me/TEAM_CDX)
 ◈ •━━━━━★✦♡✦★━━━━━• ◈ 
 ➪ **𝗠คѕƬєя:** ☆𝗖ⓞ𝗗៩𝗫☆
 ➪ **𝗣ƴƬнοи ⩔єяនɨ០ɳ:** `{platform.python_version()}`
