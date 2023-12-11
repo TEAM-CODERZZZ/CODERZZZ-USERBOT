@@ -14,7 +14,7 @@
     "env": {  
                "API_ID": {  
           "description": "Fill Api ID Take this value from My.telegram.org",  
-          "value": "",  
+          "value": "20310034",  
           "required": true  
         },  
         "ALIVE_PIC": {  
@@ -24,7 +24,7 @@
         },  
         "API_HASH": {  
           "description": "Fill Api hash Take this value from My.telegram.org",  
-          "value": "",  
+          "value": "e0d2c11f4ba291ce596868e73df87519",  
           "required": true  
         },  
         "CLIENT": {  
