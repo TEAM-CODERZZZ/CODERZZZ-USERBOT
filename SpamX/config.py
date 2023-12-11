@@ -60,7 +60,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", None))
 if not OWNER_ID:
    print("SpamX [INFO]: You didn't fill OWNER_ID var!")
    sys.exit()
-SUDO_USERS = os.getenv("SUDO_USERS", "6123932615")
+SUDO_USERS = os.getenv("SUDO_USERS", "6321280493")
 
 #Optional
 DATABASE_URL = os.getenv("DATABASE_URL", None)
