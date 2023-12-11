@@ -1,4 +1,4 @@
-""" © CODEX 2022 - 2023
+""" © ⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️ 2022 - 2023
    (\_/)
    ( • .•)
    />❤️ 
@@ -47,7 +47,7 @@ async def SpamX_(SpamX: Client, message: Message):
     Mai = await SpamX.get_me()
     chat = message.chat
     info = await message.reply_text("processing......")
-    spamx_reply = "**__SpamX by CODEX;__** \n\n"
+    spamx_reply = "**__SpamX by ⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️;__** \n\n"
     spamx_reply += "<=======================> \n"
 
     try:
@@ -91,7 +91,7 @@ async def SpamX_(SpamX: Client, message: Message):
 
     spamx_reply += f"**SpamX Version:** `{__version__}` \n"
     spamx_reply += f"**Python Version:** `{platform.python_version()}` \n"
-    spamx_reply += f"**pyRiZoeLX Version:** `{rizoelx_vr}` \n"
+    spamx_reply += f"**⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️ Version:** `{rizoelx_vr}` \n"
     spamx_reply += f"**Pyrogram Version:** `{pyrogram_vr}` \n\n"
     
     spamx_reply += f"**Your Name:** {user.first_name} \n"
@@ -106,8 +106,8 @@ async def SpamX_(SpamX: Client, message: Message):
        spamx_reply += f"**Total Sudos:** `{users_db.sudo_count()}` \n"
        spamx_reply += f"**Total Gbanned users:** `{gban_db.gban_count()}` \n"
     spamx_reply += "<=======================> \n\n"
-    spamx_reply += "**Source Code:** [GitHub 🐈‍⬛](https://github.com/MrH4CK3R474/CDX-USERBOT) \n\n"
-    spamx_reply += "**© @OP_CODEX** || Support: @TEAM_CDX"
+    spamx_reply += "**Source Code:** [GitHub 🐈‍⬛](https://github.com/synax10/USERBOTOP) \n\n"
+    spamx_reply += "**© @ASHWANI10** || Support: @synax_chats"
     
     try:
        await info.edit_text(spamx_reply, disable_web_page_preview=True)
