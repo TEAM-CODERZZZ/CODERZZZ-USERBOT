@@ -20,7 +20,7 @@ from RiZoeLX.functions import get_time, delete_reply, Red7_Watch as oops_watch
 async def ping(_, e: Message):       
       start = datetime.datetime.now()
       uptime = await get_time((time.time() - start_time))
-      pong_msg = await e.reply("**Pong !!**")
+      pong_msg = await e.reply("**⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️ !!**")
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 1000
       await pong_msg.edit_text(f"☆ {ping_msg} ☆ \n\n ➪ 𝗣ɨɳɠ: `{ms}` ᴍs \n ➪ 𝗨թƬɨмє: `{uptime}` \n ➪ ⩔єяនɨ០ɳ: `{__version__}`")
@@ -30,9 +30,9 @@ async def ping_me(_, e: Message):
       start = datetime.datetime.now()
       uptime = await get_time((time.time() - start_time))
       try:
-        pong_msg = await e.edit_text("**Pong !!**")
+        pong_msg = await e.edit_text("**⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️ !!**")
       except:
-        pong_msg = await e.reply("**Pong !!**")
+        pong_msg = await e.reply("**⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️ !!**")
         await e.delete()    
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 1000
