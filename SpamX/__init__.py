@@ -1,4 +1,4 @@
-""" © RiZoeLX """
+""" © CODEX """
 
 from .config import *
 from .database import *
