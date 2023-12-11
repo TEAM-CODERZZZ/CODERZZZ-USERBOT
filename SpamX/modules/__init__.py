@@ -9,8 +9,8 @@ __version__ = __version__
 
 
 ping_msg = PING_MSG if PING_MSG else "🇨Ⓞ𝗗𝜩🇽"
-pic = ALIVE_PIC if ALIVE_PIC else "https://graph.org/file/fd6932a2f2c9ff0ac02a9.jpg"
-amsg = ALIVE_MSG if ALIVE_MSG else "𝐎𝐏 ѕραм - by 𝗖ⓞ𝗗៩𝗫"
+pic = ALIVE_PIC if ALIVE_PIC else ""
+amsg = ALIVE_MSG if ALIVE_MSG else "𝐎𝐏 ѕραм - by 𝗖ⓞ𝗗𝜩𝗫"
 
 try:
    sah = RiZoeL.get_users(OWNER_ID)
@@ -22,11 +22,11 @@ class Alive:
      Pic = pic
      
      msg = f"""
-**[☆𝗖ⓞ𝗗៩𝗫☆](https://t.me/TEAM_CDX)
+**[☆𝗖ⓞ𝗗𝜩𝗫☆](https://t.me/TEAM_CDX)
 ◈ •━━━━━★✦♡✦★━━━━━• ◈ 
-➪ **𝗠คѕƬєя:** ☆𝗖ⓞ𝗗៩𝗫☆
+➪ **𝗠คѕƬєя:** ☆𝗖ⓞ𝗗𝜩𝗫☆
 ➪ **𝗣ƴƬнοи ⩔єяនɨ០ɳ:** `{platform.python_version()}`
-➪ **𝗖ⓞ𝗗៩𝗫 ⩔єяនɨ០ɳ:** `{__version__}`
+➪ **𝗖ⓞ𝗗𝜩𝗫 ⩔єяនɨ០ɳ:** `{__version__}`
 ➪ **𝗣ƴяο ⩔єяនɨ០ɳ:** `{pyro_vr}`
 ◈ •━━━━━★✦♡✦★━━━━━• ◈
      """
