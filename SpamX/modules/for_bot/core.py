@@ -1,6 +1,6 @@
 """
      SpamX - Telegram Bots
-     © RiZoeLX - 2022-2023
+     © CODEX - 2022-2023
 """
 import os, sys, asyncio, datetime, time, subprocess 
 from .. import handler, Owner, Sudos, ping_msg, __version__
