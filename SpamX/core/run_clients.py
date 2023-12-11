@@ -135,7 +135,7 @@ def Run_SpamX():
     
     print(f"🐾 𝐂𝐃𝐗-: 𝐏𝐲𝐭𝐡𝐨𝐧 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 - {platform.python_version()}")
     print(f"🐾 𝐂𝐃𝐗-: 𝐒𝐩𝐚𝐦 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 - {__version__}")
-    print(f"🐾 𝐂𝐃𝐗-: 𝐈𝐧𝐟𝐨 𝐂𝐎𝐃𝐄𝐗 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 - {Codex_vr}")
+    print(f"🐾 𝐂𝐃𝐗-: 𝐈𝐧𝐟𝐨 𝐂𝐎𝐃𝐄𝐗 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 - {RiZoelX_vr}")
     print(f"🐾 𝐂𝐃𝐗-: 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 - {pyro_vr}")
     print("💞𝙎𝙐𝘾𝘾𝙀𝙎𝙎𝙁𝙐𝙇 💦 𝘿𝙀𝙋𝙇𝙊𝙔𝙀𝘿 𝘽𝙔 𝘾𝙊𝘿𝙀𝙓🛑")
     idle()
