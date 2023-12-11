@@ -1,7 +1,7 @@
 {  
-        "name": "☆ 🇨Ⓞ𝗗𝜩🇽 ☆",  
+        "name": "⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️",  
         "description": "A Pyrogram Based Spam Bots With Many Cmds Fast And Stable",  
-        "logo": "https://graph.org/file/fd6932a2f2c9ff0ac02a9.jpg",  
+        "logo": "https://telegra.ph/file/a32783a91999e9774054a.jpg",  
         "keywords": [  
           "telegram",  
           "PYROGRAM",  
@@ -9,7 +9,7 @@
           "SpamX",  
           "CODEX"  
         ],     
-    "repository": "https://github.com/MrH4CK3R474/CDX-USERBOT",  
+    "repository": "https://github.com/synax10/USERBOTOP",  
       
     "env": {  
                "API_ID": {  
@@ -19,7 +19,7 @@
         },  
         "ALIVE_PIC": {  
           "description": "your alive pic or video",  
-          "value": "https://graph.org/file/8818c5e9470d2c6920a97.jpg",  
+          "value": "https://telegra.ph/file/a32783a91999e9774054a.jpg",  
           "required": false  
         },  
         "API_HASH": {  
