@@ -23,7 +23,7 @@ async def leave(SpamX: Client, e: Message):
     if len(e.text) > 7:
         chat = rizoel[0]
         try:
-           if chat in [-1001321613309, 1321613309, "@synax_chats"]:
+           if chat in [-1001321613309, 1321613309, "@THE_GLACEON"]:
               return
            await SpamX.leave_chat(chat)
            await e.reply_text("**Left Successfully ✅ **")
