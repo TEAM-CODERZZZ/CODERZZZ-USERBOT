@@ -1,7 +1,7 @@
 <p align="center"><a href="https://t.me/MOON_M_6"><img src="https://telegra.ph/file/1e406d15905398d0210df.jpg"></a></p>   
   
   <h6 align="center">   
-     <b>• Ⓞթ ѕραм  ϐγ ⚡️𝐌 𝐎 𝐎 𝐍⚡️ </b>   
+     <b>• 𝐌𝐎𝐎𝐍 𝐒𝐏𝐀𝐌 𝐁𝐘 ⚡️𝐌 𝐎 𝐎 𝐍⚡️ </b>   
   
   
          
