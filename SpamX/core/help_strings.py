@@ -6,7 +6,7 @@ if not hndlr:
   hndlr = "."
 
 help_text = f"""
-**Help menu of OP 𝗖ⓞ𝗗៩𝗫!**
+**Help menu of OP 𝐌𝐎𝐎𝐍!**
 
 Functions/Modules available ⬇️
 
