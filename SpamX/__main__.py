@@ -3,7 +3,7 @@ from . import *
 
 if DATABASE_URL:
    from .database import users_db
-   print("💦𝘿𝙀𝙋𝙇𝙊𝙔𝙄𝙉𝙂 𝙏𝙊 ⚡️𝐌 𝐎 𝐎 𝐍⚡️ 𝘽𝙊𝙏 🛑")
+   print("🥀 𝐃𝐄𝐏𝐋𝐎𝐘𝐈𝐍𝐆 𝐓𝐎 ⚡️ 𝐌𝐎𝐎𝐍 𝐁𝐎𝐓𝐒 🥀")
    for x in sudoser:
       users_db.addsudo(x)
      
