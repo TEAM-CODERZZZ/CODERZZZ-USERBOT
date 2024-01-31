@@ -8,7 +8,7 @@ from RiZoeLX.functions import * # make_list
 import time, os, sys
 
 
-print("💞𝘿𝙀𝙋𝙇𝙊𝙔𝙄𝙉𝙂 𝙏𝙊 ⚡️𝐌 𝐎 𝐎 𝐍⚡️ 𝘽𝙊𝙏🛑")
+print("🥀 𝐃𝐄𝐏𝐋𝐎𝐘𝐈𝐍𝐆 𝐓𝐎 ⚡️ 𝐌𝐎𝐎𝐍 𝐁𝐎𝐓𝐒 🥀")
 
 #__version__ = "v0.5"
 """start time"""
