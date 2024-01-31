@@ -9,8 +9,8 @@ __version__ = __version__
 
 
 ping_msg = PING_MSG if PING_MSG else "⚡️𝐌 𝐎 𝐎 𝐍⚡️"
-pic = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/2db0f4c4878db44f764f0.jpg"
-amsg = ALIVE_MSG if ALIVE_MSG else "𝐎𝐏 ѕραм - by ⚡️𝐌 𝐎 𝐎 𝐍⚡️"
+pic = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/1e406d15905398d0210df.jpg"
+amsg = ALIVE_MSG if ALIVE_MSG else "𝐌𝐎𝐎𝐍 𝐒𝐏𝐀𝐌 - by ⚡️𝐌 𝐎 𝐎 𝐍⚡️"
 
 try:
    sah = RiZoeL.get_users(OWNER_ID)
@@ -22,12 +22,12 @@ class Alive:
      Pic = pic
      
      msg = f"""
-**[⚡️𝐌 𝐎 𝐎 𝐍⚡️](https://t.me/MILKY_WAY_45)
+**[⚡️𝐌 𝐎 𝐎 𝐍⚡️](https://t.me/THE_GLACEON)
 ◈ •━━━━━★✦♡✦★━━━━━• ◈ 
-➪ **𝗠คѕƬєя:**[⚡️𝐌 𝐎 𝐎 𝐍⚡️](https://t.me/MOON_M_6)
-➪ **𝗣ƴƬнοи ⩔єяនɨ០ɳ:** `{platform.python_version()}`
-➪ **⚡️𝐌 𝐎 𝐎 𝐍⚡️ ⩔єяនɨ០ɳ:** `{__version__}`
-➪ **𝗣ƴяο ⩔єяនɨ០ɳ:** `{pyro_vr}`
+➪ **𝐌𝐀𝐒𝐓𝐄𝐑:**[⚡️𝐌 𝐎 𝐎 𝐍⚡️](https://t.me/MOON_M_6)
+➪ **𝐏𝐘𝐓𝐇𝐎𝐍 𝐕𝐄𝐑𝐒𝐈𝐎𝐍:** `{platform.python_version()}`
+➪ **⚡️𝐌 𝐎 𝐎 𝐍⚡️ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍:** `{__version__}`
+➪ **𝐏𝐘𝐑𝐎 𝐕𝐄𝐑𝐒𝐈𝐎𝐍:** `{pyro_vr}`
 ◈ •━━━━━★✦♡✦★━━━━━• ◈
      """
 
