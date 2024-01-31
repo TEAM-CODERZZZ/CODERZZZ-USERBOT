@@ -1,7 +1,7 @@
 {  
         "name": "⚡️𝐌 𝐎 𝐎 𝐍⚡️",  
         "description": "A Pyrogram Based Spam Bots With Many Cmds Fast And Stable",  
-        "logo": "https://telegra.ph/file/2db0f4c4878db44f764f0.jpg",  
+        "logo": "https://telegra.ph/file/1e406d15905398d0210df.jpg",  
         "keywords": [  
           "telegram",  
           "PYROGRAM",  
@@ -19,12 +19,12 @@
         },  
         "ALIVE_PIC": {  
           "description": "your alive pic or video",  
-          "value": "https://telegra.ph/file/2db0f4c4878db44f764f0.jpg",  
+          "value": "https://telegra.ph/file/1e406d15905398d0210df.jpg",  
           "required": false  
         },  
         "API_HASH": {  
           "description": "Fill Api hash Take this value from My.telegram.org",  
-          "value": "e0d2c11f4ba291ce596868e73df87519",  
+          "value": "d236dffc3dd60f89a149557898370e74",  
           "required": true  
         },  
         "CLIENT": {  
