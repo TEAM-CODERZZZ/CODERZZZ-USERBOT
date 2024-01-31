@@ -1,14 +1,14 @@
-<p align="center"><a href="https://t.me/MOON_M_6"><img src="https://telegra.ph/file/2db0f4c4878db44f764f0.jpg"></a></p>   
+<p align="center"><a href="https://t.me/MOON_M_6"><img src="https://telegra.ph/file/1e406d15905398d0210df.jpg"></a></p>   
   
   <h6 align="center">   
      <b>• Ⓞթ ѕραм  ϐγ ⚡️𝐌 𝐎 𝐎 𝐍⚡️ </b>   
   
   
          
-   [⚡️𝐌 𝐎 𝐎 𝐍⚡️](https://t.me/MILKY_WAY_45)   
+   [⚡️𝐌 𝐎 𝐎 𝐍⚡️](https://t.me/THE_GLACEON)   
   
   
-           ─「 ᎠᎬᏢᏞϴᎽ ϴΝ ᎻᎬᎡϴᏦႮ 」─   
+           ─「 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔 」─   
   
    </h3>   
   
