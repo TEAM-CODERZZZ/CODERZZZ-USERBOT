@@ -23,7 +23,8 @@ async def ping(_, e: Message):
       pong_msg = await e.reply("**⚡️𝐌 𝐎 𝐎 𝐍⚡️ !!**")
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 1000
-      await pong_msg.edit_text(f"☆ {ping_msg} ☆ \n\n ➪ 𝐏𝐈𝐍𝐆: `{ms}` ᴍs \n ➪ 𝐔𝐏𝐓𝐈𝐌𝐄: `{uptime}` \n ➪ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍: `{__version__}`")
+      await pong_msg.edit_text(f"☆ {ping_msg} ☆ \n\n ➪ 🫧 🇲𝐎𝐎𝐍 𝐢𝐬 𝐫𝐞𝐚𝐝𝐲 𝐭𝐨 𝐛𝐫𝐢𝐧𝐠 𝐂𝐲𝐜𝐥𝐨𝐧𝐞⚡️⛈: `{ms}` ᴍs \n ➪ 🫧𝐄𝐧𝐞𝐦𝐢𝐞𝐬, 𝐠𝐞𝐭 𝐫𝐞𝐚𝐝𝐲 𝐭𝐨 𝐠𝐞𝐭 𝐟𝐮𝐜𝐤𝐞𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐜𝐲𝐜𝐥𝐨𝐧𝐞.⚡️⛈: `{uptime}` \n ➪ 🫧#𝐌𝐎𝐎𝐍 𝐎𝐩⚡️⛈
+: `{__version__}`")
       
 @Client.on_message(filters.me & filters.command(["ping"], prefixes=handler))
 async def ping_me(_, e: Message):       
@@ -36,7 +37,8 @@ async def ping_me(_, e: Message):
         await e.delete()    
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 1000
-      await pong_msg.edit_text(f"☆ {ping_msg} ☆ \n\n ➪ 𝐏𝐈𝐍𝐆: `{ms}` ᴍs \n ➪ 𝐔𝐏𝐓𝐈𝐌𝐄:`{uptime}` \n ➪ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍: `{__version__}`")
+      await pong_msg.edit_text(f"☆ {ping_msg} ☆ \n\n ➪ 🫧 🇲𝐎𝐎𝐍 𝐢𝐬 𝐫𝐞𝐚𝐝𝐲 𝐭𝐨 𝐛𝐫𝐢𝐧𝐠 𝐂𝐲𝐜𝐥𝐨𝐧𝐞⚡️⛈: `{ms}` ᴍs \n ➪ 🫧𝐄𝐧𝐞𝐦𝐢𝐞𝐬, 𝐠𝐞𝐭 𝐫𝐞𝐚𝐝𝐲 𝐭𝐨 𝐠𝐞𝐭 𝐟𝐮𝐜𝐤𝐞𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐜𝐲𝐜𝐥𝐨𝐧𝐞.⚡️⛈:`{uptime}` \n ➪ 🫧#𝐌𝐎𝐎𝐍 𝐎𝐩⚡️⛈
+: `{__version__}`")
 
 
 
