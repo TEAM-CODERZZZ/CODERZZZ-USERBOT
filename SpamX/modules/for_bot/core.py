@@ -1,6 +1,6 @@
 """
      SpamX - Telegram Bots
-     © ⚡️𝐌 𝐎 𝐎 𝐍⚡️ - 2022-2023
+     © ⚡️𝐀 𝐍 𝐕 𝐈⚡️ - 2022-2023
 """
 import os, sys, asyncio, datetime, time, subprocess 
 from .. import handler, Owner, Sudos, ping_msg, __version__
@@ -20,10 +20,10 @@ from RiZoeLX.functions import get_time, delete_reply, Red7_Watch as oops_watch
 async def ping(_, e: Message):       
       start = datetime.datetime.now()
       uptime = await get_time((time.time() - start_time))
-      pong_msg = await e.reply("**⚡️𝐌 𝐎 𝐎 𝐍⚡️ !!**")
+      pong_msg = await e.reply("**⚡️𝐀 𝐍 𝐕 𝐈⚡️ !!**")
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 1000
-      await pong_msg.edit_text(f"☆ {ping_msg} ☆ \n\n ➪ 🫧 🇲𝐎𝐎𝐍 𝐢𝐬 𝐫𝐞𝐚𝐝𝐲 𝐭𝐨 𝐛𝐫𝐢𝐧𝐠 𝐂𝐲𝐜𝐥𝐨𝐧𝐞⚡️⛈: `{ms}` ᴍs \n ➪ 🫧𝐄𝐧𝐞𝐦𝐢𝐞𝐬, 𝐠𝐞𝐭 𝐫𝐞𝐚𝐝𝐲 𝐭𝐨 𝐠𝐞𝐭 𝐟𝐮𝐜𝐤𝐞𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐜𝐲𝐜𝐥𝐨𝐧𝐞.⚡️⛈: `{uptime}` \n ➪ 🫧#𝐌𝐎𝐎𝐍 𝐎𝐩⚡️⛈
+      await pong_msg.edit_text(f"☆ {ping_msg} ☆ \n\n ➪ 🫧 𝐇𝐄𝐋𝐋  𝐐𝐔𝐄𝐄𝐍  𝐀𝐍𝐕𝐈⚡️⛈: `{ms}` ᴍs \n ➪ 🫧𝐀𝐍𝐕𝐈   𝐐𝐔𝐄𝐄𝐍  𝐎𝐅  𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐄⚡️⛈: `{uptime}` \n ➪ 🫧#𝐀𝐍𝐕𝐈  𝐎𝐏⚡️⛈
 : `{__version__}`")
       
 @Client.on_message(filters.me & filters.command(["ping"], prefixes=handler))
@@ -31,13 +31,13 @@ async def ping_me(_, e: Message):
       start = datetime.datetime.now()
       uptime = await get_time((time.time() - start_time))
       try:
-        pong_msg = await e.edit_text("**⚡️𝐌 𝐎 𝐎 𝐍⚡️ !!**")
+        pong_msg = await e.edit_text("**⚡️𝐀 𝐍 𝐕 𝐈⚡️ !!**")
       except:
-        pong_msg = await e.reply("**⚡️𝐌 𝐎 𝐎 𝐍⚡️ !!**")
+        pong_msg = await e.reply("**⚡️𝐀 𝐍 𝐕 𝐈⚡️ !!**")
         await e.delete()    
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 1000
-      await pong_msg.edit_text(f"☆ {ping_msg} ☆ \n\n ➪ 🫧 🇲𝐎𝐎𝐍 𝐢𝐬 𝐫𝐞𝐚𝐝𝐲 𝐭𝐨 𝐛𝐫𝐢𝐧𝐠 𝐂𝐲𝐜𝐥𝐨𝐧𝐞⚡️⛈: `{ms}` ᴍs \n ➪ 🫧𝐄𝐧𝐞𝐦𝐢𝐞𝐬, 𝐠𝐞𝐭 𝐫𝐞𝐚𝐝𝐲 𝐭𝐨 𝐠𝐞𝐭 𝐟𝐮𝐜𝐤𝐞𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐜𝐲𝐜𝐥𝐨𝐧𝐞.⚡️⛈:`{uptime}` \n ➪ 🫧#𝐌𝐎𝐎𝐍 𝐎𝐩⚡️⛈
+      await pong_msg.edit_text(f"☆ {ping_msg} ☆ \n\n ➪ 🫧 𝐇𝐄𝐋𝐋  𝐐𝐔𝐄𝐄𝐍  𝐀𝐍𝐕𝐈⚡️⛈: `{ms}` ᴍs \n ➪ 🫧𝐀𝐍𝐕𝐈   𝐐𝐔𝐄𝐄𝐍  𝐎𝐅  𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐄⚡️⛈:`{uptime}` \n ➪ 🫧#𝐀𝐍𝐕𝐈  𝐎𝐏⚡️⛈
 : `{__version__}`")
 
 
@@ -76,7 +76,7 @@ async def welcome_watcher(SpamX: Client, member: ChatMemberUpdated):
    user = member.new_chat_member.user if member.new_chat_member else member.from_user    
    if group_welcome:
       if user.id == mai.id:
-         await SpamX.send_message(message.chat.id, "SpamX Here. Powered by ⚡️𝐌 𝐎 𝐎 𝐍⚡️")
+         await SpamX.send_message(message.chat.id, "SpamX Here. Powered by ⚡️𝐀 𝐍 𝐕 𝐈⚡️")
          return
       if user.id == Owner:
          await SpamX.send_message(message.chat.id, f"{user.mention} Welcome to {message.chat.title} my King 👑")
@@ -128,7 +128,7 @@ async def os_system(SpamX: Client, message: Message):
        if check_var in Variables:
           var = check_var
        else:
-          await message.reply_text(f"Wrong variable! All Variables given below 👇\n\n {Variables_text} \n\n © ⚡️𝐌 𝐎 𝐎 𝐍⚡️")
+          await message.reply_text(f"Wrong variable! All Variables given below 👇\n\n {Variables_text} \n\n © ⚡️𝐀 𝐍 𝐕 𝐈⚡️")
           return
        value = str(txt[1])
        try:
@@ -138,6 +138,6 @@ async def os_system(SpamX: Client, message: Message):
          os.execl(sys.executable, *args)
          quit()
        except Exception as error:
-         await message.reply_text(f"Error: {error} \n\n Report in ⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️")
+         await message.reply_text(f"Error: {error} \n\n Report in ⚡️𝐀 𝐍 𝐕 𝐈⚡️")
     else:
        await message.reply_text(f"**Wrong Usage** \n Syntax: {handler}setvar (var name) (value) \n\n Type `{handler}getvars` To get all Vars name!")
