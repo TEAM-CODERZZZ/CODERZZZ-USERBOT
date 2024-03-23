@@ -133,9 +133,9 @@ def Run_SpamX():
        else:
          start_spamX(RiZoeL20, "session")
     
-    print(f"🐾 𝐌𝐎𝐎𝐍-: 𝐏𝐲𝐭𝐡𝐨𝐧 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 - {platform.python_version()}")
-    print(f"🐾 𝐌𝐎𝐎𝐍-: 𝐒𝐩𝐚𝐦 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 - {__version__}")
-    print(f"🐾 𝐌𝐎𝐎𝐍-: 𝐈𝐧𝐟𝐨 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 - {rizoelx_vr}")
-    print(f"🐾 𝐌𝐎𝐎𝐍-: 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 - {pyro_vr}")
-    print("💞𝙎𝙐𝘾𝘾𝙀𝙎𝙎𝙁𝙐𝙇 💦 𝘿𝙀𝙋𝙇𝙊𝙔𝙀𝘿 𝘽𝙔 ⚡️𝐌 𝐎 𝐎 𝐍⚡️🛑")
+    print(f"🐾 𝗖𝗼𝗱𝗲𝗿𝘇𝘇𝘇-: 𝐏𝐲𝐭𝐡𝐨𝐧 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 - {platform.python_version()}")
+    print(f"🐾 𝗖𝗼𝗱𝗲𝗿𝘇𝘇𝘇-: 𝐒𝐩𝐚𝐦 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 - {__version__}")
+    print(f"🐾 𝗖𝗼𝗱𝗲𝗿𝘇𝘇𝘇-: 𝐈𝐧𝐟𝐨 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 - {rizoelx_vr}")
+    print(f"🐾 𝗖𝗼𝗱𝗲𝗿𝘇𝘇𝘇-: 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 - {pyro_vr}")
+    print("🍃𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐁𝐲 𝗖𝗼𝗱𝗲𝗿𝘇𝘇𝘇🍃")
     idle()
